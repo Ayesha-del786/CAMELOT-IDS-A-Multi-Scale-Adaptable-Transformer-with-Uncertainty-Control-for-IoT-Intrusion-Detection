@@ -1,0 +1,3 @@
+decision_interface,empirical_coverage,avg_set_size,committed_decisions,committed_risk
+Top-1 point prediction,0.9886371582406824,1.0,1.0,0.011362841759317566
+Mondrian RAPS,0.9987967014312744,1.9146810829079552,0.4177170011421113,0.0014682239372814099
