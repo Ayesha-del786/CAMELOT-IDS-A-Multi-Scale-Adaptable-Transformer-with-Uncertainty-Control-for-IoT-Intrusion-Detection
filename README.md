@@ -1,0 +1,1 @@
+# CAMELOT-IDS-A-Multi-Scale-Adaptable-Transformer-with-Uncertainty-Control-for-IoT-Intrusion-Detection
