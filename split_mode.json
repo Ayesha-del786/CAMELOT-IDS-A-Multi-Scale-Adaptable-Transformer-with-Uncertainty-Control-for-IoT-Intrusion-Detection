@@ -1,0 +1,6 @@
+{
+  "split_mode": "stratified_group(__src_file)",
+  "LABEL_COL": "label",
+  "TIME_COL": null,
+  "GROUP_COL": null
+}
