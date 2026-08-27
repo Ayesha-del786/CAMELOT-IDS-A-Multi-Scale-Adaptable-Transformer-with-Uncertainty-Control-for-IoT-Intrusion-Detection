@@ -1,0 +1,39 @@
+# CAMELOT-IDS direct Python dependencies
+#
+# The executed notebook does not record exact versions for every imported
+# package. For an archival release, also export the exact working environment
+# with `pip freeze` or `conda env export`.
+#
+# The manuscript reports PyTorch 2.1 / CUDA 12.1 for the archived profiling
+# environment. CUDA-enabled PyTorch should be installed using the appropriate
+# PyTorch installation command for the target CUDA/runtime environment.
+
+# Notebook / runtime
+jupyterlab
+ipykernel
+
+# Core numerical and data stack
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+tqdm
+pyarrow
+
+# Deep learning
+torch>=2.1
+
+# Stream drift monitoring
+river
+
+# Publication table export
+openpyxl
+
+# Model export / inference validation
+onnx
+onnxruntime
+
+# Optional baseline experiments used only when enabled in the notebook
+xgboost
+catboost
